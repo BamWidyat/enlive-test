@@ -1,1 +1,1 @@
-Testing clojure's enlive code uses
+Testing clojure's enlive code usage
